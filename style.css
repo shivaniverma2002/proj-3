@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins&display=swap');
+
+.uk-light{
+    font-family:Montserrat,sans-serif;
+    font-weight: 600;
+    font-size:1rem;
+}
+.uk-card{
+    box-shadow: 0 0 2rem #000;
+}
+.uk-card img{
+   height:300px;
+   width:600px;
+}
+.uk-section-A{
+    background: rgb(200, 255, 252);
+}
+.list-group-item{
+    color:#385f52;
+    font-weight: 600;
+    font-size: 16px;
+    border-bottom: 1px solid #385f52;
+}
